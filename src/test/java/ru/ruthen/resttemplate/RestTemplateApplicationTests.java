@@ -6,8 +6,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class RestTemplateApplicationTests {
 
-    @Test
-    void contextLoads() {
-    }
-//test
+	@Test
+	void contextLoads() {
+	}
+//testt
 }
